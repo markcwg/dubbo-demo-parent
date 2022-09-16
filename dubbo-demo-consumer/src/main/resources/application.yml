@@ -1,0 +1,8 @@
+server:
+  port: 8902
+
+dubbo:
+  application:
+    name: dubbo-demo-consumer
+  registry:
+    address: zookeeper://127.0.0.1:2181
