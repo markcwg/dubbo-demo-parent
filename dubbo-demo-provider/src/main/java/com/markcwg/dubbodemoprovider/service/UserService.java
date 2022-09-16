@@ -6,12 +6,6 @@ import org.apache.dubbo.config.annotation.DubboService;
 import org.springframework.stereotype.Service;
 
 /**
- * git init
- * git add README.md
- * git commit -m "first commit"
- * git branch -M master
- * git remote add origin https://github.com/markcwg/dubbo-demo-parent.git
- * git push -u origin master
  * @author markcwg
  * @date 2022/9/16 16:01
  */
