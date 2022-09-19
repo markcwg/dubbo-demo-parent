@@ -17,6 +17,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="dubbo-demo-consumer" options="-parameters" />
+      <module name="dubbo-demo-interfaces" options="-parameters" />
       <module name="dubbo-demo-provider" options="-parameters" />
     </option>
   </component>
